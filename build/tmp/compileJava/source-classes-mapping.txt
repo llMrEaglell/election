@@ -1,2 +1,4 @@
+main/Person.java
+ main.Person
 main/Main.java
  main.Main
