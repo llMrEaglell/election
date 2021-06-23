@@ -1,4 +1,30 @@
-main/Person.java
- main.Person
+main/VotingRoom.java
+ main.VotingRoom
+main/ElectoratFactory.java
+ main.ElectoratFactory
+main/entity/persons/electorat/TimoshenkoElectorat.java
+ main.entity.persons.electorat.TimoshenkoElectorat
+main/entity/persons/electorat/BoykoElectorat.java
+ main.entity.persons.electorat.BoykoElectorat
+main/CandidateStorage.java
+ main.CandidateStorage
+main/entity/persons/electorat/ZelenskiyElectorat.java
+ main.entity.persons.electorat.ZelenskiyElectorat
+main/entity/persons/Voter.java
+ main.entity.persons.Voter
 main/Main.java
  main.Main
+main/VotingBooth.java
+ main.VotingBooth
+main/entity/ElectionPaper.java
+ main.entity.ElectionPaper
+main/WorkerElectionSection.java
+ main.WorkerElectionSection
+main/entity/persons/electorat/PorosheknoElectorat.java
+ main.entity.persons.electorat.PorosheknoElectorat
+main/entity/persons/Person.java
+ main.entity.persons.Person
+main/entity/persons/Candidate.java
+ main.entity.persons.Candidate
+main/ElectionTimer.java
+ main.ElectionTimer
